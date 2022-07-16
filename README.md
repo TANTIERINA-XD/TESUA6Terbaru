@@ -11,13 +11,13 @@ $ pip install rich
 
 $ pip install cython
 
-$ rm -rf Brute
+$ rm -rf TESUA6Terbaru
 
-$ git clone https://github.co
+$ git clone https://github.com/TANTIERINA-XD/TESUA6Terbaru
 
-$ cd Brute
+$ cd TESUA6Terbaru
 
 $ git pull
 
-$ python run.py
+$ python tesua6terbaru3.py
 ```
